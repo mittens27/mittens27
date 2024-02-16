@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mittens27
-- 👀 I’m interested in ...
+- 👀 I’m interested in web developement, gamedev, creative activities
 - 🌱 I’m currently learning javascript, HTML, CSS, Godot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web developement, gamedev, practice and beginner stuff
 - 📫 How to reach me amluck88@gmail.com
 
 <!---
