@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mittens27
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++, Java, Python
+- 🌱 I’m currently learning javascript, HTML, CSS, Godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amluck88@gmail.com
 
